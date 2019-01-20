@@ -55,5 +55,5 @@ http://192.168.1.3:10000/test/activemap/2/
 ```
 
 #### 其它
-<a href="https://www.xiaomastack.com/2019/01/17/kong-plugin-upstream-url-penetrate/" target="_blank">插件相关文章</a>
+<a href="https://www.xiaomastack.com/2019/01/19/kong-plugin-upstream-url-penetrate/" target="_blank">插件相关文章</a>
 
